@@ -256,7 +256,7 @@
             {
               "id": "2ae2acd0-422f-4f37-bb94-70859c9e7f69",
               "name": "Enter your n8n Base URL (The part before the first single slash)",
-              "value": "",
+              "value": "https://your-n8n-instance.com",
               "type": "string"
             }
           ]
